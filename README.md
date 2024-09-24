@@ -3,7 +3,7 @@ A small colour pallete for pine trees.
 
 
 
-Made this tree very quickly with it
+Made this tree very quickly with it, (I'm not the best at pixel art)
 
 Hope you like it!
 :)
